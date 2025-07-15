@@ -1,3 +1,4 @@
+#without any attributes
 class Hello:
     def printHello(self):
         print("Hello BMS")
